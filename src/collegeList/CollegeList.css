@@ -1,0 +1,33 @@
+.college-collection {
+    width: 430px;
+    margin: 60px auto;
+}
+
+.college-collection ul {
+    padding: 0;
+}
+
+.college-collection li {
+    border: 1px solid #eee;
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.05);
+    padding: 10px;
+    max-width: 400px;
+    margin: 20px auto;
+    border-radius: 4px;
+    list-style-type: none;
+}
+.filters {
+    display: flex;
+    gap: 10;
+}
+.filters button {
+    flex-grow: 1;
+    background: #2b1f64;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.0em;
+    border: 0;
+    border-radius: 4px;
+    margin: 10px;
+    cursor: pointer;
+}

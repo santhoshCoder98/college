@@ -1,0 +1,22 @@
+{
+    "college": [
+        {
+            "name": "University of Santa Barbara",
+            "location": "US",
+            "cost": "20 Lakhs",
+            "id": 1
+        },
+        {
+            "name": "Technical Univesity of Munich",
+            "location": "Germany",
+            "cost": "0",
+            "id": 2
+        },
+        {
+            "name": "Technical Univesity of Berlin",
+            "location": "Germany",
+            "cost": "0",
+            "id": 3
+        }
+    ]
+}
